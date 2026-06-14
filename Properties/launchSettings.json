@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "UnitConverterApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53292;http://localhost:53293"
+    }
+  }
+}
